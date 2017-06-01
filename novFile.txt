@@ -1,0 +1,6 @@
+
+$ git status
+
+$ echo > novineshta.txt
+
+$ git rebase
